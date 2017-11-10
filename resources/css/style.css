@@ -179,10 +179,6 @@ nav a {
 }
 
 .copyright {
-  margin: 0px 0px 30px 20px ;
+  margin-left: 20px ;
   text-align: left;
-}
-
-.foot {
-  height: 200px;
 }
