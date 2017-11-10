@@ -10,7 +10,13 @@ body {
   margin: 0;
   text-align: center;
   font-size: 22px;
+}
 
+h2,
+h3,
+h4 {
+  padding: 10px;
+  margin: 0;
 }
 
 /* Border boxing build tool
