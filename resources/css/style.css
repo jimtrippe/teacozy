@@ -100,6 +100,7 @@ nav a {
   flex-wrap: wrap;
   width: 1000px;
   margin: 0;
+  padding-top: 10px;
 }
 
 #feat {
@@ -137,7 +138,7 @@ nav a {
 
 .row1 h4 {
   margin-top: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .row2 h4 {
